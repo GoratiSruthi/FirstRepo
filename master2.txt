@@ -1,1 +1,2 @@
 this is my third file with master2.txt name
+now i am writing some thing
